@@ -1,0 +1,43 @@
+{
+  "name": "table-component",
+  "version": "1.0.0",
+  "description": "Reusable Table Component By Ashok",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel index.html",
+    "test": "jest"
+  },
+  "keywords": [
+    "Table",
+    "Component"
+  ],
+  "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "^4.0.0-alpha.58",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "material-table": "^1.69.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.1"
+  },
+  "author": "Ashok",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
